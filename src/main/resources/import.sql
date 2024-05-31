@@ -43,4 +43,4 @@ INSERT INTO `jugador` (`id`, `apellido`, `nombre`, `numero`, `posicion`, `id_clu
 (5, 'Mora', 'Daniel ', 6, 'Mas malo que 10', 18),
 (6, 'Joya', 'Maicol', 8, 'Mediocampista', 16),
 (7, 'Montañez', 'William', 1, 'Arquero', 15),
-(12, 'Jaimes', 'Daniel', 11, 'Mediocampista', NULL);
+(12, 'Jaimes', 'Daniel', 11, 'Mediocampista', 15);
